@@ -1,6 +1,6 @@
 
-# An introduction to { YOUR TOPIC } with { LIBRARY YOU USE } 
-### Level: Beginner or Advanced
+# An introduction to PySpark with { LIBRARY YOU USE } 
+### Level: Beginner
 ### Presentation: (where your audience can find the presentation)
 
 ## Project description
