@@ -1,29 +1,39 @@
 
-# An introduction to PySpark with { LIBRARY YOU USE } 
+# An introduction to PySpark
 ### Level: Beginner
 ### Presentation: (where your audience can find the presentation)
 
 ## Project description
-Describe why your introduction to this topic is important and what you want to teach to your audience
-
+PySpark is a distributed data processing engine widely used in Data Engineering and Data Science. Another way to think of PySpark is a library that allows processing large amounts of data on a single machine or a cluster of machines. We will go through the basic concepts and operations so you will leave the workshop ready to continue learning on your own.
 
 ## Setup:
-Set up a Python 3 environment that can run Jupyter notebooks (Jupyter or Jupyterlab) and install the following libraries:
-* ...
 
-The easiest way to do this is to install [anaconda](https://www.anaconda.com/distribution/) and install the libraries in your root environment:
-```conda install matplotlib pandas seaborn```
+Go to `My Notebooks` on your account on https://www.zepl.com/
 
-If you already have a running (ana)conda environment, you can use `intro.yml` to set up a separate enviroment:
-```conda env create -f environment.yml```
+![](resources/your-notebooks.png)
+
+Click `Import` on the top right corner of the page
+
+![](resources/import.png)
+
+Name your notebook and use `Upload file` to import the file on `resources/pyspark.zpln`
+
+![](resources/zpl.png)
+
+On the notebook page, click the folder icon on the left and select `Upload file`
+
+![](resources/upload.png)
+
+You should be good to start running your notebook now :)
+
+(Pro tip: run a cell with `Shift + Enter`)
 
 ## Requirements
-* Python 3
-* ...
+Create a trial account on https://www.zepl.com/
 
 ## Usage
 * Clone the repository
-* Start jupyter(lab) and navigate to the workshop folder
+* Follow the instructions to set up your notebook
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github}
+This workshop was set up by @pyladiesams and https://github.com/nataliapipas
