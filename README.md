@@ -10,19 +10,22 @@ PySpark is a distributed data processing engine widely used in Data Engineering 
 
 Go to `My Notebooks` on your account on https://www.zepl.com/
 
-![](resources/your-notebooks.png)
+![](resources/pictures/your-notebooks.png)
 
 Click `Import` on the top right corner of the page
 
-![](resources/import.png)
+![](resources/pictures/import.png)
 
 Name your notebook and use `Upload file` to import the file on `resources/pyspark.zpln`
+(it can also be found [here](https://www.zepl.com/viewer/notebooks/bm90ZTovL25hdGFsaWFwaXBhc0BnbWFpbC5jb20vZjNkNDgwZjFlNzA4NDc2NTkzZjAxMzQwOThlZWE0MTcvbm90ZS5qc29u)).
 
-![](resources/zpl.png)
+![](resources/pictures/zpl.png)
 
 On the notebook page, click the folder icon on the left and select `Upload file`
 
-![](resources/upload.png)
+![](resources/pictures/upload.png)
+
+Upload the file on `resources/SalesRecords.csv`
 
 You should be good to start running your notebook now :)
 
