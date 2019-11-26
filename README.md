@@ -40,3 +40,13 @@ Create a trial account on https://www.zepl.com/
 
 ## Credits
 This workshop was set up by @pyladiesams and https://github.com/nataliapipas
+
+## Plan B
+
+If, for some reason, Zepl is not available, we'll use a Databricks notebook.
+ 
+To set it up, create an account at https://community.cloud.databricks.com/
+
+Then import the [notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/583179271718016/1014737441752746/222117274820398/latest.html) like on the gif:
+
+![](workshop/pictures/databricks_setup.gif)
