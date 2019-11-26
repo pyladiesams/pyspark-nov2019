@@ -1,7 +1,7 @@
 
 # An introduction to PySpark
 ### Level: Beginner
-### Presentation: (where your audience can find the presentation)
+### [Presentation](https://docs.google.com/presentation/d/1xRM7Hh1qnqOot1b-HAV_VHsUYl3spUKryE5W2JpPCXw)
 
 ## Project description
 PySpark is a distributed data processing engine widely used in Data Engineering and Data Science. Another way to think of PySpark is a library that allows processing large amounts of data on a single machine or a cluster of machines. We will go through the basic concepts and operations so you will leave the workshop ready to continue learning on your own.
@@ -10,20 +10,20 @@ PySpark is a distributed data processing engine widely used in Data Engineering 
 
 Go to `My Notebooks` on your account on https://www.zepl.com/
 
-![](resources/pictures/your-notebooks.png)
+![](workshop/pictures/your-notebooks.png)
 
 Click `Import` on the top right corner of the page
 
-![](resources/pictures/import.png)
+![](workshop/pictures/import.png)
 
 Name your notebook and use `Upload file` to import the file on `resources/pyspark.zpln`
 (it can also be found [here](https://www.zepl.com/viewer/notebooks/bm90ZTovL25hdGFsaWFwaXBhc0BnbWFpbC5jb20vZjNkNDgwZjFlNzA4NDc2NTkzZjAxMzQwOThlZWE0MTcvbm90ZS5qc29u)).
 
-![](resources/pictures/zpl.png)
+![](workshop/pictures/zpl.png)
 
 On the notebook page, click the folder icon on the left and select `Upload file`
 
-![](resources/pictures/upload.png)
+![](workshop/pictures/upload.png)
 
 Upload the file on `resources/SalesRecords.csv`
 
