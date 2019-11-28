@@ -16,7 +16,7 @@ Click `Import` on the top right corner of the page
 
 ![](workshop/pictures/import.png)
 
-Name your notebook and use `Upload file` to import the file on `resources/pyspark.zpln`
+Name your notebook and use `Upload file` to import the file on `workshop/pyspark.zpln`
 (it can also be found [here](https://www.zepl.com/viewer/notebooks/bm90ZTovL25hdGFsaWFwaXBhc0BnbWFpbC5jb20vZjNkNDgwZjFlNzA4NDc2NTkzZjAxMzQwOThlZWE0MTcvbm90ZS5qc29u)).
 
 ![](workshop/pictures/zpl.png)
@@ -25,7 +25,7 @@ On the notebook page, click the folder icon on the left and select `Upload file`
 
 ![](workshop/pictures/upload.png)
 
-Upload the file on `resources/SalesRecords.csv`
+Upload the file on `workshop/SalesRecords.csv`
 
 You should be good to start running your notebook now :)
 
