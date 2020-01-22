@@ -47,6 +47,14 @@ If, for some reason, Zepl is not available, we'll use a Databricks notebook.
  
 To set it up, create an account at https://community.cloud.databricks.com/
 
-Then import the [notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/583179271718016/1014737441752746/222117274820398/latest.html) like on the gif:
+Then import the [notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/583179271718016/1249435828050903/222117274820398/latest.html) like on the gif:
 
 ![](workshop/pictures/databricks_setup.gif)
+
+Upload the file on `workshop/SalesRecords.csv`:
+
+![](workshop/pictures/databricks_upload.gif)
+
+You should be good to go back and start running your notebook now :)
+
+(Pro tip: run a cell with `Shift + Enter`)
